@@ -44,8 +44,8 @@ pip install numpy scipy matplotlib
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/VG-MPCC-AUV.git](https://github.com/yourusername/VG-MPCC-AUV.git)
-   cd VG-MPCC-AUV
+   git clone https://github.com/LiangZhao13/VGMPCC.git
+   cd VGMPCC
    ```
 2. Ensure that the `OptRoute_Data.csv` file (containing the `[x, y]` waypoints) is placed in the root directory.
 3. Run the main simulation script:
