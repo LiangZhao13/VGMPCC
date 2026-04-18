@@ -8,7 +8,8 @@ This repository provides a Python implementation of the **Virtual-Guide Model Pr
 The code is a Python conversion of the original MATLAB implementation, designed to maintain the core logic, model structure, and algorithmic integrity of the paper authored by **Liang Zhao**.
 
 ## 📑 Reference Paper
-**Title:** *VG-MPCC: A Virtual-Guide Model Predictive Contouring Control Formulation for Path Following of Autonomous Underwater Vehicles* **Author:** Liang Zhao  
+**Title:** *VG-MPCC: A Virtual-Guide Model Predictive Contouring Control Formulation for Path Following of Autonomous Underwater Vehicles* 
+**Author:** Liang Zhao  
 
 If you use this code in your academic research, please consider citing the original paper.
 
